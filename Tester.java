@@ -6,8 +6,7 @@ import java.util.Random;
 public class Tester {
     /*
     Set useSeed to true if you want the same values to be
-    used in your tests all the time. This may help when
-    debugging your solution.
+    used in your tests all the time..
     */
     static boolean useSeed = true;
 
